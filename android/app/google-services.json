@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292207782293",
+    "project_id": "attendease-efe98",
+    "storage_bucket": "attendease-efe98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292207782293:android:09351b706239d71a782e9c",
+        "android_client_info": {
+          "package_name": "com.example.attendease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnu9xwbWGG8M5JyTgFIS0-TrUtkCUTcek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
